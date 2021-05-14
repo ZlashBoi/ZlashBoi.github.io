@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ConsoleLogger's webpage. 
 
 You can use the [editor on GitHub](https://github.com/ZlashBoi/ZlashBoi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
