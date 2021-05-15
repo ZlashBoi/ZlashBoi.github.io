@@ -7,5 +7,5 @@ Track your chat! See who is talking and if someone deletes their message... It w
 
 
 # ConsoleLogger
-ConsoleLogger is a Discord bot that moderates the chat.
+ConsoleLogger is a Discord bot that moderates the chat. 
 
